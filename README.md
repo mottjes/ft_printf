@@ -22,4 +22,4 @@ For more detail: The subject pdf is inside of the project folder.
 
 ### Usage
 
-``make`` to compile the libary with the ft_printf() function.
+``make`` to compile and to create the libary with the ft_printf() function.
