@@ -1,6 +1,6 @@
 # ft_printf
 
-### Descrition
+### Description
 
 The project is a partial reimplementation of the printf function.
 It is mainly to learn about using a variable number of arguments.
